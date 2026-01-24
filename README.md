@@ -34,7 +34,7 @@ Soy un desarrollador enfocado en crear soluciones escalables y modernas, con exp
 ---
 
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[TU_LINKEDIN])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elvis-p%C3%A9rez-p%C3%A9rez-6a36902a0)
 
 ---
 
