@@ -33,7 +33,11 @@ Soy un desarrollador enfocado en crear soluciones escalables y modernas, con exp
 
 ---
 
-### 🤝 Connect with me
+### 📬 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvisperezperez7@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5359631282)
+[![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ElvisPP03)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elvis-p%C3%A9rez-p%C3%A9rez-6a36902a0)
 
 ---
